@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Kalkulajda.NET/Kalkulajda.NET.csproj" />
+  <Project Path="Kalkulajda/Kalkulajda.csproj" Id="d8c279d7-b3a1-4a8d-975f-e15c8694d0e4" />
+</Solution>
